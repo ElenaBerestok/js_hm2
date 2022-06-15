@@ -46,4 +46,20 @@ let greetings = 'Hello World';
 
 console.log(greetings);
 
+const text = 'const userAge = '
 
+console.log(`typeof text`, typeof text);
+
+const age = 12;
+
+console.log(`typeof age`, typeof age);
+
+const signature = text + age;
+
+console.log(signature);
+
+const textChange = 'userAge = '
+
+const signatureChange = textChange + age;
+
+console.log(signatureChange);
