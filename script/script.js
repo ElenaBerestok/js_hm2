@@ -4,7 +4,7 @@ let userAge;
 
 userAge = 23;
 
-console.log(age);
+console.log(userAge);
 
 let userName;
 
@@ -44,4 +44,6 @@ let coordinatesCursor;
 
 let greetings = 'Hello World';
 
-console.log(greetings)
+console.log(greetings);
+
+
