@@ -1,8 +1,8 @@
 // ДЗ пункт 1
 
-let age;
+let userAge;
 
-age = 23;
+userAge = 23;
 
 console.log(age);
 
@@ -39,3 +39,9 @@ let employeeSalary;
 // переменной, которая хранит координаты курсора (мыши)
 
 let coordinatesCursor;
+
+// ДЗ пункт 3
+
+let greetings = 'Hello World';
+
+console.log(greetings)
